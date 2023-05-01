@@ -3,9 +3,10 @@
 ###### This is an `<h6>` header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-git init 
-/Users/skills/Projects/recipe-repository/.git/ 
-
+``` 
+$ git init 
+/Users/skills/Projects/recipe-repository/.git/ で初期化された空の Git
+リポジトリ
 
 - [x] List syntax is required
 - [x] This item is complete
